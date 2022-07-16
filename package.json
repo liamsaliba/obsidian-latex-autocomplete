@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-latex-autocomplete",
+	"name": "obsidian-inline-calc",
 	"version": "1.0.0",
-	"description": "Adds LaTeX / Math Unicode autocompletions in text (non-code) environments",
+	"description": "Performs inline calculations similar to OneNote",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
@@ -20,5 +20,8 @@
 		"obsidian": "latest",
 		"tslib": "2.4.0",
 		"typescript": "4.7.4"
+	},
+	"dependencies": {
+		"expressionparser": "^1.1.5"
 	}
 }

@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-latex-autocomplete",
-	"name": "LaTeX Autocomplete",
+	"id": "obsidian-inline-calc",
+	"name": "Inline calculator",
 	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "Performs autocomplete of LaTeX symbol shortcuts similar to Julia",
+	"description": "Performs inline calculations similar to OneNote",
 	"author": "Liam Saliba",
 	"authorUrl": "https://liamsaliba.github.io",
 	"isDesktopOnly": false
